@@ -1,4 +1,5 @@
-Tên dự án: Nhận diện Cảm xúc Con người qua Thị giác Máy tính
+Tên dự án: XÂY DỰNG MÔ HÌNH PHÂN LOẠI CẢM XÚC CON NGƯỜI
+
 
 Mục tiêu: Phát triển một hệ thống sử dụng thị giác máy tính để nhận diện và phân loại cảm xúc của con người từ hình ảnh khuôn mặt thu thập từ Kaggle. Hệ thống này có thể nhận biết các cảm xúc như hạnh phúc, buồn bã, tức giận, ngạc nhiên, sợ hãi và ghê tởm.
 	
